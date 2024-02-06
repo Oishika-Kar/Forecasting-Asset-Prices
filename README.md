@@ -17,6 +17,8 @@ I would like to express my gratitude to Nathan Kunz and Dean Aaron Tornell for t
 
 ## How to Use
 
-- **Clone the Repository:** Clone this repository to your local machine using the following command:
+- **Explore the Code:** Navigate through the codebase to understand the implemented trading strategies and associated components.
+
+- **Modify and Experiment:** Feel free to modify the code to suit your needs and experiment with different trading strategies.
 
 
