@@ -10,7 +10,7 @@ This repository contains the source code I implemented as part of my Econ 442b l
 
 ## Acknowledgments
 
-I would like to express my gratitude to Nathan Kunz and Dean Aaron Tornell for their guidance and teachings during the Econ 442b lab and 409 course, respectively.
+I would like to express my gratitude to Prof. Nathan Kunz and Dean Aaron Tornell for their guidance and teachings during the Econ 442b lab and 409 course, respectively.
 ## Warning
 
 **Caution:** Copying the exact material from this repository without proper understanding and attribution is strongly discouraged. Plagiarism undermines the learning process and violates academic integrity policies. It is crucial to use this code as a reference or source of inspiration, adapting and building upon it to suit your own understanding and goals.
